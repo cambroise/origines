@@ -1,0 +1,28 @@
+project:
+  type: book
+  output-dir: docs
+
+lang: fr
+
+book:
+  title: "Lignes de vie"
+  author: "Christophe Ambroise"
+  date: "7/20/2025"
+  chapters:
+    - index.qmd
+    - AJJ-Ambroise.qmd
+    - Documents-transcriptions.qmd
+    - references.qmd
+
+bibliography: references.bib
+
+format:
+  html:
+    theme:
+      - cosmo
+      - brand
+  pdf:
+    documentclass: scrreprt
+
+editor: visual
+

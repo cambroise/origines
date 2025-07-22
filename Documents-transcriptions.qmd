@@ -1,0 +1,68 @@
+# Documents et transcriptions
+
+
+## Mariage Ambroise Lecointe (1832)
+
+
+```{r}
+#| echo: FALSE
+#| fig-align: center
+#| fig-cap: "Acte de mariage Ambroise Lecointe de 1832"
+knitr::include_graphics("Images/1832-mariage-ambroise-lecointe.jpg")
+```
+
+
+
+L’an **1832, le 23 octobre** à huit heures du matin. Devant nous Maire affilés de l'état civil de la commune de Doullens canton de Doullens, département de la Somme, sont comparus publiquement en la maison commune le nommé Pierre Joseph Théophile Ambroise, agé de 22 ans 6 mois et 20 jours, tailleur d'habits demeurant à Doullens, natif de Doullens, fils de Louis François Ambroise, agé de 47 ans, tailleur d'habits, demeurant à Doullens, présent et consentant au mariage de son fils,  et de feue Marie Louise Augustine Laurent décédé à Doullens le 18 juin dernier et la nommée **Aurore Elisabeth Joséphine Lecointe** agée de 24 ans, 11 mois et 5 jours, **fileuse en coton**, demeurant à Doullens, native de Doullens fille majeur de feu Jean Baptise Lecointe décédé à Doullens le 11 juin dernier et marie à Marie Anne Troullé agée de 59 ans, ménagère demeurant à Doullens présente et consentante au mariage de sa fille, lesquels nous ont requis de procéder à la célébration du mariage projetté entre eux et dont les publications ont été faites en cette commune les dimanche 7 et 14 octobre précédent seoir à l'heure de midi sans qu’il nous ait été signifié aucune opposition audit mariage.
+
+  Faisant droit à leur réquisition, après avoir donné lecture de l'acte de naissance des futurs époux, de l'acte de décés de la mère du future époux de l'acte de décés du père de la future épouse, et du chapitre VI du titre du Code civil Napoléon intitulé **Du Mariage**, nous avons reçu de chaque partie l'une après  l'autre la déclaration qu'elle veluent prendre pour mari et femme. Nous prononçons au nom de la loi que le nommé Pierre Joseph Théophile Ambroise et Aurore Elisabeth Jopéphine Lecointe sont unis par le mariage 
+  
+
+De tout quoi, nous avons dressé acte en présence de Messieurs
+
+- **Auguste Louis Ambroise**, âgé de **29 ans, tailleur d'habits** demeurant à Doullens, frère de l'époux, premier témoin
+- **François Joseph Napoléon Ambroise**, âgé de 26 ans, aussi **tailleur d'habit** demeurant à Doullens, frère de l'époux, demeurant à Doullens, second témoin.
+- Albert Lecointe, âgé de 30 ans serrurier, demeurant à Doullens, frère de l'épouse, troisième témoin. 
+- Henri Joseph Diland, agé de 33 ans, boulanger demeurant audit Doullens, beau-frère de l'épouse, quatrième témoin
+
+
+et il  a été donné lecture, aux parties, au père de l'époux, à la mère de l'épouse et aux témoins, qui ont signés avec nous....
+  
+
+**Signatures :**
+
+Ambroise — Ambroise — ....
+
+
+
+## Internement de Fernande Marguerie 1921, 1923, 1930
+
+
+```{r}
+#| echo: FALSE
+#| fig-align: center
+#| fig-cap: "Asile Fain les source 1921"
+knitr::include_graphics("Images/1921-Asile.jpg")
+```
+
+
+```{r}
+#| echo: FALSE
+#| fig-align: center
+#| fig-cap: "Asile Fain les source 1923"
+knitr::include_graphics("Images/1923-Asile.jpg")
+```
+
+
+
+```{r}
+#| echo: FALSE
+#| fig-align: center
+#| fig-cap: "Asile Fain les source 1930"
+knitr::include_graphics("Images/1930-Asile-décés.jpg")
+```
+
+
+## Famille Hissette 2023
+
+La famille Hissette a produit un document de grande qualité  [@hissette2023], où l'on peut retrouver quelques membres de notre arbre (le père de Catherine Hissette). 
