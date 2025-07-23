@@ -1,0 +1,24 @@
+# Alfred Ambroise (1861- ) et Catherine Hissette (1868- )
+
+
+
+
+
+```{mermaid}
+%%| label: fig-arbre-jametz
+%%| fig-width: 6
+%%| fig-cap: "Branche d'Alfred Ambroise (1861–) et Catherine Hissette à Jametz"
+graph TD
+  A1[Aline Julienne Joséphine Ambroise<br>1837‑1865]
+  A2[Alfred Ambroise<br>24/12/1861‑?<br>**Ouvrier**<br> Marié à Jametz en 1889]
+  H1[Catherine Hissette<br>1868‑?<br>Née à Hestroff]
+
+  %% Alfred enfant naturel d'Aline
+  A1 --> A2
+
+  %% Union entre Alfred et Catherine
+  A2 --> M1[Mariage 1889]
+  H1 --> M1
+```
+
+

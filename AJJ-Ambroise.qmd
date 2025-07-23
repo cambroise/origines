@@ -1,6 +1,5 @@
 # Aline Julienne Joséphine Ambroise 1837-1865
 
-
 ```{mermaid}
 %%| label: fig-arbre-ambroise
 %%| fig-width: 4
@@ -19,7 +18,6 @@ graph TD
   A --> F[Florimond<br>1865‑?]
 ```
 
-
 Aline Julienne Joséphine est née à Doullens le 3 mai 1837. Elle fut une femme pauvre — ou, au mieux, modeste — du XIXe siècle. Une femme dont l’histoire ne conserve presque rien, sinon quelques lignes sèches sur les registres d’état civil. Et pourtant, elle tient une place essentielle dans notre lignée Ambroise. C’est elle qui a transmis le nom, seule, à chacun de ses enfants. Aucun homme n’a reconnu ces naissances. Aucun père n’a laissé sa trace.
 
 Son père, Pierre Joseph Théophile Ambroise (1810-1838), était tailleur d’habits à Doullens, comme ses deux frères et comme tant d’Ambroise avant lui, depuis George Ambroise (1635-1709), maître tailleur dans la même ville dès le XVIIe siècle. Sa mère, Aurore Élisabeth Joséphine Lecointe (1807-), venait d’un milieu d’artisans : sœur d’un serrurier, belle-sœur d’un boulanger.
@@ -32,7 +30,39 @@ Elle donna naissance à au moins sept enfants, tous naturels, tous enregistrés 
 
 Tous ces enfants sans père déclaré. Était-ce un choix, une contrainte, un silence imposé ? On ne le saura jamais. Ce que l’on sait, c’est qu’à la mort d’Aline, le 24 octobre 1865, à seulement 28 ans, la fratrie est dispersée. Enterrée à Ivry-sur-Seine, elle disparaît du paysage. Plus tard, Alfred et Florimond, au moment de se marier, diront n’avoir jamais eu de nouvelles de leur mère. Preuve probable qu’ils ont été placés très jeunes.
 
-Cette jeune femme, seule dans Paris, vivant de métiers difficiles, changeant de villes, pour terminer sur Paris, sans soutien durable, incarne  une force silencieuse. Elle n’a laissé ni portrait, ni lettre — seulement des naissances (7 enfants en 10 ans) et une mort précoce. 
+Cette jeune femme, seule dans Paris, vivant de métiers difficiles, changeant de villes, pour terminer sur Paris, sans soutien durable, incarne une force silencieuse. Elle n’a laissé ni portrait, ni lettre — seulement des naissances (7 enfants en 10 ans) et une mort précoce.
+
+
+
+```{r carte-france-villes, echo=FALSE, fig.cap="Carte de France avec Doullens, Amiens et Paris", fig.width=6, fig.height=6}
+library(ggplot2)
+library(maps)
+
+# Données des villes
+villes <- data.frame(
+  nom = c("Doullens", "Amiens", "Paris"),
+  lon = c(2.34, 2.3, 2.35),
+  lat = c(50.15, 49.9, 48.85)
+)
+
+# Fond de carte France
+france <- map_data("france")
+
+# Carte avec remplissage transparent (alpha = 0.2)
+ggplot() +
+  geom_polygon(
+    data = france,
+    aes(x = long, y = lat, group = group),
+    fill = "lightgray",
+    color = "black",
+    alpha = 0.2
+  ) +
+  geom_point(data = villes, aes(x = lon, y = lat), color = "red", size = 3) +
+  geom_text(data = villes, aes(x = lon, y = lat, label = nom), vjust = -1) +
+  coord_fixed(1.3) +
+  theme_minimal()
+```
+
 
 
 ```{r}
@@ -42,13 +72,15 @@ Cette jeune femme, seule dans Paris, vivant de métiers difficiles, changeant de
 knitr::include_graphics("Images/Doullens.jpg")
 ```
 
-## Piqueuse de bottines et lingère
 
+
+
+
+## Piqueuse de bottines et lingère
 
 Les métiers qu’exerça Aline Julienne Joséphine — piqueuse de bottines, lingère — disent à eux seuls la condition qui fut la sienne. La piqueuse de bottines, métier répandu à Paris dans les années 1850–1860, intervenait dans la fabrication de chaussures, souvent en atelier ou à domicile, sur commande. Elle assemblait, à la main ou sur des machines rudimentaires, les pièces de cuir, de toile ou de drap qui formaient la tige de la chaussure. Ce travail exigeait de la minutie, une bonne vue, et une cadence soutenue, car les rémunérations étaient à la pièce, et faibles. Ce métier apparaît dans les recensements parisiens dès le début du Second Empire, et reflète l’essor de la production artisanale pré-industrielle, avant la mécanisation complète de la chaussure dans les années 1870.
 
-Lingère, quant à lui, était un métier plus ancien, déjà bien établi au XVIIIᵉ siècle. Dans les années 1850–1860, la lingère travaillait à la confection, l’entretien ou la réparation du linge de maison ou de corps : chemises, jupons, cols, draps, mouchoirs. Elle pouvait être employée par une maison bourgeoise, une blanchisserie, ou travailler à son compte. Là encore, c’était un métier de l’ombre, précaire, sous-payé, souvent exercé par des femmes seules ou veuves. Il permettait de survivre, rarement de vivre.
-
+Lingère était un métier plus ancien, déjà bien établi au XVIIIᵉ siècle. Dans les années 1850–1860, la lingère travaillait à la confection, l’entretien ou la réparation du linge de maison ou de corps: chemises, jupons, cols, draps, mouchoirs. Elle pouvait être employée par une maison bourgeoise, une blanchisserie, ou travailler à son compte. Là encore, c’était un métier de l’ombre, précaire, sous-payé, souvent exercé par des femmes seules ou veuves. Il permettait de survivre, rarement de vivre.
 
 ## Chronologie
 
@@ -60,36 +92,31 @@ Entre 1837 et 1865, la France connut de profondes mutations politiques, économi
 
 Pour Julienne, née en 1837 et vivant entre Doullens, Amiens et Paris, ce fut un passage du monde artisanal provincial à la vie urbaine. Elle vit défiler les régimes, les gares et les ateliers («piqueuse de bottines», lingère), entre la naissance de sept enfants et une disparition prématurée en 1865. Son parcours reflète à son échelle les bouleversements de la France: rurale, puis industrielle ; provinciale, puis urbaine.
 
-
-
-- 3 mai 1837: en France, épidémie de grippe en cours, premières lois sur l’enseignement, infrastructures et communication (télégraphe, routes)
--  À Doullens, petite cité agricole, la vie suit les mêmes règles: marchés, agriculture, solidarité. Pas de modernisation urbaine significative encore
+-   3 mai 1837: en France, épidémie de grippe en cours, premières lois sur l’enseignement, infrastructures et communication (télégraphe, routes)
+-   À Doullens, petite cité agricole, la vie suit les mêmes règles: marchés, agriculture, solidarité. Pas de modernisation urbaine significative encore
 
 ### Années 1830–1840 — Modernisation progressive
 
-- 1830 : Révolution des Trois Glorieuses, avènement de la Monarchie de Juillet. Des idées libérales circulent aussi à Doullens et Amiens.
--	À Amiens, vaste chantier de «hausmannisation avant l’heure» :
--	démolition des remparts, création de boulevards (1830–1848) ;
--	ouverture de la bibliothèque (1826), de la Caisse d’Épargne (1833), du cimetière de la Madeleine ;
--	industrialisation naissante, abattoirs (1833), usine à gaz (1836).
+-   1830 : Révolution des Trois Glorieuses, avènement de la Monarchie de Juillet. Des idées libérales circulent aussi à Doullens et Amiens.
+-   À Amiens, vaste chantier de «hausmannisation avant l’heure» :
+-   démolition des remparts, création de boulevards (1830–1848) ;
+-   ouverture de la bibliothèque (1826), de la Caisse d’Épargne (1833), du cimetière de la Madeleine ;
+-   industrialisation naissante, abattoirs (1833), usine à gaz (1836).
 
-###  Années 1840–1850 — Arrivée des chemins de fer
+### Années 1840–1850 — Arrivée des chemins de fer
 
--	1846 : ligne Paris–Lille, gare d’Amiens (Gare du Nord) inaugurée, suscitant l’ouverture de la ville vers Paris  ￼.
--	1847–1848 : ligne Amiens–Boulogne/St‑Roch ; développement industriel facilité par la « Société industrielle » créée en 1836.
+-   1846 : ligne Paris–Lille, gare d’Amiens (Gare du Nord) inaugurée, suscitant l’ouverture de la ville vers Paris ￼.
+-   1847–1848 : ligne Amiens–Boulogne/St‑Roch ; développement industriel facilité par la « Société industrielle » créée en 1836.
 
 ### 1848–1851 — Révolution et période incertaine
 
--	Février 1848 : Révolution de février, IIe République proclamée;
-- Juin 1848 : insurrection ouvrière à Paris, réprimée violemment (les «Journées de Juin»).
-- En Picardie, dont Amiens, l’insurrection connaît un certain soutien, et des arbres de la liberté sont plantés.
+-   Février 1848 : Révolution de février, IIe République proclamée;
+-   Juin 1848 : insurrection ouvrière à Paris, réprimée violemment (les «Journées de Juin»).
+-   En Picardie, dont Amiens, l’insurrection connaît un certain soutien, et des arbres de la liberté sont plantés.
 
-###  1850–1860 — Second Empire et prospérité régionale
+### 1850–1860 — Second Empire et prospérité régionale
 
--	1851 : Coup d’État de Louis-Napoléon, début du Second Empire — engouement modéré en Picardie.
--	1853 : Napoléon III visite Amiens, signe de modernité.
--	1855–1867 : Amiens s’enrichit : musée de Picardie, extension du réseau ferroviaire vers Laon et Rouen.
--	À Doullens et alentours, l’essor du rail commence à transformer les échanges mais l’artisanat (tailleur, mulquinerie) reste intact.
-
-
-
+-   1851 : Coup d’État de Louis-Napoléon, début du Second Empire — engouement modéré en Picardie.
+-   1853 : Napoléon III visite Amiens, signe de modernité.
+-   1855–1867 : Amiens s’enrichit : musée de Picardie, extension du réseau ferroviaire vers Laon et Rouen.
+-   À Doullens et alentours, l’essor du rail commence à transformer les échanges mais l’artisanat (tailleur, mulquinerie) reste intact.

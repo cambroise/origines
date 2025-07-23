@@ -10,7 +10,9 @@ book:
   date: "7/20/2025"
   chapters:
     - index.qmd
+    - Ambroise-Doullens.qmd
     - AJJ-Ambroise.qmd
+    - Ambroise-Hissette.qmd
     - Documents-transcriptions.qmd
     - references.qmd
 
@@ -23,6 +25,8 @@ format:
       - brand
   pdf:
     documentclass: scrreprt
-
+  docx:
+    toc: true
+    number-sections: true
 editor: visual
 

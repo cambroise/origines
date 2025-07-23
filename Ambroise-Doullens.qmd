@@ -1,0 +1,40 @@
+# La famille Ambroise à Doullens dans la somme (1600-1850)
+
+
+
+```{mermaid}
+%%| label: fig-arbre-origines
+%%| fig-width: 4
+%%| fig-cap: "Arbre simplifié de la famille Ambroise sur Doullens"
+graph TD
+  P1[Georges Ambroise <br>1635‑1709<br> **Maître tailleur**]
+  P2[Barbe de LA HOUSSOYE <br>1638‑1716]
+  P21[Louis Ambroise <br>?‑1715 <br> **Cordonnier**]
+  P22[Marie Madeleine <br>1671‑1742]
+  P32[Catherine Bayard 1707-1737]
+  P42[Marie Françoise Tavernier <br>1730-1808]
+  P52[Marie Louise Augustine Laurent<br> 1778-1832]
+
+  P1 --> P21
+  P2 --> P21
+  P21 --> P31[Georges Ambroise <br> 1701-1777]
+  P22 --> P31
+  P31 --> P41[Georges Ambroise <br> 1733-1775]
+  P32 --> P41
+  P41 --> P51[Louis Ambroise <br>1757-1814 <br> **Tailleur d'habits**]
+  P42 --> P51
+  P51 --> P61[Pierre Joseph Théophile Ambroise <br>1810-1838 <br> **Tailleur d'habits**]
+  P52 --> P61
+```
+
+De Georges Ambroise (1635–1709) à Pierre Joseph Théophile Ambroise (1810–1838), la famille Ambroise est restée solidement enracinée à Doullens, tissant génération après génération un lien étroit avec le métier de tailleur d’habits. Dès le milieu du XVIIᵉ siècle, dans une ville encore imprégnée par les règles des corporations, plusieurs membres de la lignée apparaissent comme  maîtres tailleurs, puis artisans engagés dans cet art exigeant fait de rigueur, de précision et de sens du vêtement. L’apprentissage long, la réalisation du chef-d’œuvre, les contrôles des jurés : tout cet univers structuré semble avoir été leur quotidien, transmis et transformé au fil des ans. 
+
+```{r}
+#| echo: FALSE
+#| fig-align: center
+#| fig-cap: "Tailleur d'habits au XVIIème"
+knitr::include_graphics("Images/tailleur.jpeg")
+```
+
+
+
