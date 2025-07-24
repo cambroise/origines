@@ -1,4 +1,4 @@
-# Le patronyme Ambroise
+# Le patronyme Ambroise {#patronyme}
 
 Malgré les réserves légitimes de ma petite femme, Martine Gutmann épouse Ambroise, qui voit dans la transmission patronymique un héritage du patriarcat millénaire défavorable aux femmes, cette recherche doit bien choisir un point d’ancrage pour commencer. En ce sens, la lignée Ambroise s’impose, non par supériorité, mais parce qu’elle constitue un terrain d’étude culturellement plus accessible et documenté pour moi.
 
@@ -29,6 +29,8 @@ knitr::include_graphics("Images/patronyme-ambroise.jpg")
 ### Communes les plus présentes pour le patronyme *Ambroise*
 
 
+
+
 | Commune                         | Département             | Nombre d’individus |
 |---------------------------------|--------------------------|---------------------|
 | Paris                           | Paris                    | 2159               |
@@ -43,6 +45,4 @@ knitr::include_graphics("Images/patronyme-ambroise.jpg")
 | Calvados (diverses communes)    | Calvados                 | 505                 |
 | Pont-de-l’Arche                 | Eure                     | 884                 |
 | Deux-Villes                     | Ardennes                 | 417                 |
-
-
 

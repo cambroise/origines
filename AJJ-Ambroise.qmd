@@ -1,4 +1,4 @@
-# Aline Julienne Joséphine Ambroise (1837-1865)
+# Aline Julienne Joséphine Ambroise (1837-1865) {#ajj}
 
 ```{mermaid}
 %%| label: fig-arbre-ambroise
