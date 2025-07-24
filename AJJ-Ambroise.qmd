@@ -1,4 +1,4 @@
-# Aline Julienne Joséphine Ambroise 1837-1865
+# Aline Julienne Joséphine Ambroise (1837-1865)
 
 ```{mermaid}
 %%| label: fig-arbre-ambroise
@@ -18,7 +18,7 @@ graph TD
   A --> F[Florimond<br>1865‑?]
 ```
 
-Aline Julienne Joséphine est née à Doullens le 3 mai 1837. Elle fut une femme pauvre — ou, au mieux, modeste — du XIXe siècle. Une femme dont l’histoire ne conserve presque rien, sinon quelques lignes sèches sur les registres d’état civil. Et pourtant, elle tient une place essentielle dans notre lignée Ambroise. C’est elle qui a transmis le nom, seule, à chacun de ses enfants. Aucun homme n’a reconnu ces naissances. Aucun père n’a laissé sa trace.
+**Aline Julienne Joséphine** est née à Doullens le 3 mai 1837. Elle fut une femme pauvre — ou, au mieux, modeste — du XIXe siècle. Une femme dont l’histoire ne conserve presque rien, sinon quelques lignes sèches sur les registres d’état civil. Et pourtant, elle tient une place essentielle dans notre lignée Ambroise. **C’est elle qui a transmis le nom, seule, à chacun de ses enfants**. Aucun homme n’a reconnu ces naissances. Aucun père n’a laissé sa trace.
 
 Son père, Pierre Joseph Théophile Ambroise (1810-1838), était tailleur d’habits à Doullens, comme ses deux frères et comme tant d’Ambroise avant lui, depuis George Ambroise (1635-1709), maître tailleur dans la même ville dès le XVIIe siècle. Sa mère, Aurore Élisabeth Joséphine Lecointe (1807-), venait d’un milieu d’artisans : sœur d’un serrurier, belle-sœur d’un boulanger.
 
@@ -26,7 +26,7 @@ Ils se marièrent en 1832. Pierre Joseph avait 22 ans. Il mourut cinq ans plus t
 
 Julienne quitta Doullens. Elle partit pour Amiens, puis Paris. Peut-être poussée par une grossesse, peut-être par le désir de recommencer. Elle y vécut une vie rude. Les métiers qu’elle exerça — piqueuse de bottines, lingère — parlent d’eux-mêmes.
 
-Elle donna naissance à au moins sept enfants, tous naturels, tous enregistrés sous son seul nom. Le premier, Jeanne, naît à Doullens en 1855. Julienne a alors dix-huit ans. Jeanne deviendra brumisseuse et épousera plus tard un cocher, Félix Pierre Dériot, à Paris. En 1857, à Amiens, naît Claire. Puis Marthe Héloïse, en 1858, également à Amiens. En 1860, Victoria Sophie vient au monde à Paris. Alfred — mon ancêtre — naît en 1861, suivi d’Adrienne en 1863, puis de Florimond en 1865.
+Elle donna naissance à au moins **sept enfants, tous naturels**, tous enregistrés sous son seul nom. Le premier, Jeanne, naît à Doullens en 1855. Julienne a alors dix-huit ans. Jeanne deviendra brumisseuse et épousera plus tard un cocher, Félix Pierre Dériot, à Paris. En 1857, à Amiens, naît Claire. Puis Marthe Héloïse, en 1858, également à Amiens. En 1860, Victoria Sophie vient au monde à Paris. Alfred — mon ancêtre — naît en 1861, suivi d’Adrienne en 1863, puis de Florimond en 1865.
 
 Tous ces enfants sans père déclaré. Était-ce un choix, une contrainte, un silence imposé ? On ne le saura jamais. Ce que l’on sait, c’est qu’à la mort d’Aline, le 24 octobre 1865, à seulement 28 ans, la fratrie est dispersée. Enterrée à Ivry-sur-Seine, elle disparaît du paysage. Plus tard, Alfred et Florimond, au moment de se marier, diront n’avoir jamais eu de nouvelles de leur mère. Preuve probable qu’ils ont été placés très jeunes.
 
@@ -76,11 +76,24 @@ knitr::include_graphics("Images/Doullens.jpg")
 
 
 
-## Piqueuse de bottines et lingère
+## Les métiers de Julienne et ses enfants
 
-Les métiers qu’exerça Aline Julienne Joséphine — piqueuse de bottines, lingère — disent à eux seuls la condition qui fut la sienne. La piqueuse de bottines, métier répandu à Paris dans les années 1850–1860, intervenait dans la fabrication de chaussures, souvent en atelier ou à domicile, sur commande. Elle assemblait, à la main ou sur des machines rudimentaires, les pièces de cuir, de toile ou de drap qui formaient la tige de la chaussure. Ce travail exigeait de la minutie, une bonne vue, et une cadence soutenue, car les rémunérations étaient à la pièce, et faibles. Ce métier apparaît dans les recensements parisiens dès le début du Second Empire, et reflète l’essor de la production artisanale pré-industrielle, avant la mécanisation complète de la chaussure dans les années 1870.
+Les métiers qu’exerça Aline Julienne Joséphine — piqueuse de bottines, lingère — disent à eux seuls la condition qui fut la sienne. La **piqueuse de bottines**, métier répandu à Paris dans les années 1850–1860, intervenait dans la fabrication de chaussures, souvent en atelier ou à domicile, sur commande. Elle assemblait, à la main ou sur des machines rudimentaires, les pièces de cuir, de toile ou de drap qui formaient la tige de la chaussure. Ce travail exigeait de la minutie, une bonne vue, et une cadence soutenue, car les rémunérations étaient à la pièce, et faibles. Ce métier apparaît dans les recensements parisiens dès le début du Second Empire, et reflète l’essor de la production artisanale pré-industrielle, avant la mécanisation complète de la chaussure dans les années 1870.
 
-Lingère était un métier plus ancien, déjà bien établi au XVIIIᵉ siècle. Dans les années 1850–1860, la lingère travaillait à la confection, l’entretien ou la réparation du linge de maison ou de corps: chemises, jupons, cols, draps, mouchoirs. Elle pouvait être employée par une maison bourgeoise, une blanchisserie, ou travailler à son compte. Là encore, c’était un métier de l’ombre, précaire, sous-payé, souvent exercé par des femmes seules ou veuves. Il permettait de survivre, rarement de vivre.
+**Lingère** était un métier plus ancien, déjà bien établi au XVIIIᵉ siècle. Dans les années 1850–1860, la lingère travaillait à la confection, l’entretien ou la réparation du linge de maison ou de corps: chemises, jupons, cols, draps, mouchoirs. Elle pouvait être employée par une maison bourgeoise, une blanchisserie, ou travailler à son compte. Là encore, c’était un métier de l’ombre, précaire, sous-payé, souvent exercé par des femmes seules ou veuves. Il permettait de survivre, rarement de vivre.
+
+Les enfants de Julienne, tels que le révèlent les archives, ont occupé des métiers modestes. Jeanne, en particulier, fut à la fois journalière et brumisseuse — deux activités féminines emblématiques du labeur discret et précaire du XIXᵉ siècle. Le terme de **brumisseuse**, aujourd’hui disparu, désignait une ouvrière spécialisée dans le tissage ou la préparation d’étoffes très fines appelées « brumes ». Ces tissus légers, destinés à la confection de voilages ou de vêtements délicats, exigeaient un savoir-faire minutieux, exercé soit à domicile, soit dans les manufactures textiles du nord de la France. 
+
+Le métier de **journalière**, quant à lui, témoigne d’une condition encore plus exposée à l’aléa économique. Travaillant à la tâche ou à la journée, Jeanne rejoignait chaque matin les rangs silencieux de ces femmes engagées sans contrat stable, souvent pour de petits travaux agricoles ou domestiques, mal rémunérés et saisonniers. 
+
+
+
+```{r}
+#| echo: FALSE
+#| fig-align: center
+#| fig-cap: "Paris - La rue de Passy dans le XVI° arrondissement de Paris : Avant 1860"
+knitr::include_graphics("Images/1860-paris-rue-passy.jpg")
+```
 
 ## Chronologie
 
@@ -90,7 +103,7 @@ Entre 1837 et 1865, la France connut de profondes mutations politiques, économi
 
 À Doullens, proche mais plus modeste, l’artisanat rural — tailleurs, tisserands, petits métiers — perdurait, tout en étant progressivement influencé par l’ouverture des gares régionales et les réseaux ferroviaires.
 
-Pour Julienne, née en 1837 et vivant entre Doullens, Amiens et Paris, ce fut un passage du monde artisanal provincial à la vie urbaine. Elle vit défiler les régimes, les gares et les ateliers («piqueuse de bottines», lingère), entre la naissance de sept enfants et une disparition prématurée en 1865. Son parcours reflète à son échelle les bouleversements de la France: rurale, puis industrielle ; provinciale, puis urbaine.
+Pour Julienne, née en 1837 et vivant entre Doullens, Amiens et Paris, ce fut un passage du monde artisanal provincial à la vie urbaine. Elle vit défiler les régimes, les gares et les ateliers («piqueuse de bottines», lingère), entre la naissance de sept enfants et une disparition prématurée en 1865. Son parcours reflète à son échelle les bouleversements de la France: rurale, puis industrielle ; provinciale, puis urbaine. Le film de Cédric Klapisch La venue de l’avenir [@klapisch2025venue] restitue l’ambiance de l’époque et alimente l’imaginaire que nous pouvons avoir de Julienne.
 
 -   3 mai 1837: en France, épidémie de grippe en cours, premières lois sur l’enseignement, infrastructures et communication (télégraphe, routes)
 -   À Doullens, petite cité agricole, la vie suit les mêmes règles: marchés, agriculture, solidarité. Pas de modernisation urbaine significative encore

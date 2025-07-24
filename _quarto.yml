@@ -5,14 +5,16 @@ project:
 lang: fr
 
 book:
-  title: "Lignes de vie"
+  title: "Fragments d’une filiation France-Allemagne, de l'origine de la famille Ambroise"
   author: "Christophe Ambroise"
   date: "7/20/2025"
   chapters:
     - index.qmd
+    - patronyme-ambroise.qmd
     - Ambroise-Doullens.qmd
     - AJJ-Ambroise.qmd
     - Ambroise-Hissette.qmd
+    - Anchier-Margerie.qmd
     - Documents-transcriptions.qmd
     - references.qmd
 

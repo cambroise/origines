@@ -1,8 +1,17 @@
 # Documents et transcriptions
 
 
-## Mariage Ambroise Lecointe (1832)
+## Méthode 
 
+
+J’ai utilisé [Geneanet](https://www.geneanet.org) pour retrouver des documents essentiels explicitant les dates de naissance, décès et mariage — tout en m’appuyant sur des arbres d’autres chercheurs. En combinant ces deux approches (interrogation de sources primaires et consultation d’arbres collaboratifs), j’ai progressivement tissé un fil solide pour la reconstitution de notre arbre familial.
+
+Les parties les plus fiables reposent sur des actes officiels issus de Geneanet, tandis que les générations précédant 1800 restent plus sujettes à caution, faute de documents — j’ai alors parfois extrapolé à partir d’arbres plus anciens, réalisés par des passionnés ayant mené des recherches approfondies.
+
+Cette méthode hybride suit en partie les préceptes du Genealogical Proof Standard (recherche exhaustive, citations précises, croisement des sources), même si, pour l’Ancien Régime^[Traditionnellement, l’Ancien Régime s’étend de l’accession d’Henri IV en 1589 jusqu’à la Constitution de 1791 (4 septembre 1791), qui instaure la monarchie constitutionnelle], la fiabilité varie en fonction des arbres consultés.
+
+
+## Mariage Ambroise Lecointe (1832)
 
 ```{r}
 #| echo: FALSE
@@ -11,23 +20,18 @@
 knitr::include_graphics("Images/1832-mariage-ambroise-lecointe.jpg")
 ```
 
+L’an **1832, le 23 octobre** à huit heures du matin. Devant nous Maire affilés de l'état civil de la commune de Doullens canton de Doullens, département de la Somme, sont comparus publiquement en la maison commune le nommé Pierre Joseph Théophile Ambroise, agé de 22 ans 6 mois et 20 jours, tailleur d'habits demeurant à Doullens, natif de Doullens, fils de Louis François Ambroise, agé de 47 ans, tailleur d'habits, demeurant à Doullens, présent et consentant au mariage de son fils, et de feue Marie Louise Augustine Laurent décédé à Doullens le 18 juin dernier et la nommée **Aurore Elisabeth Joséphine Lecointe** agée de 24 ans, 11 mois et 5 jours, **fileuse en coton**, demeurant à Doullens, native de Doullens fille majeur de feu Jean Baptise Lecointe décédé à Doullens le 11 juin dernier et marie à Marie Anne Troullé agée de 59 ans, ménagère demeurant à Doullens présente et consentante au mariage de sa fille, lesquels nous ont requis de procéder à la célébration du mariage projetté entre eux et dont les publications ont été faites en cette commune les dimanche 7 et 14 octobre précédent seoir à l'heure de midi sans qu’il nous ait été signifié aucune opposition audit mariage.
 
-
-L’an **1832, le 23 octobre** à huit heures du matin. Devant nous Maire affilés de l'état civil de la commune de Doullens canton de Doullens, département de la Somme, sont comparus publiquement en la maison commune le nommé Pierre Joseph Théophile Ambroise, agé de 22 ans 6 mois et 20 jours, tailleur d'habits demeurant à Doullens, natif de Doullens, fils de Louis François Ambroise, agé de 47 ans, tailleur d'habits, demeurant à Doullens, présent et consentant au mariage de son fils,  et de feue Marie Louise Augustine Laurent décédé à Doullens le 18 juin dernier et la nommée **Aurore Elisabeth Joséphine Lecointe** agée de 24 ans, 11 mois et 5 jours, **fileuse en coton**, demeurant à Doullens, native de Doullens fille majeur de feu Jean Baptise Lecointe décédé à Doullens le 11 juin dernier et marie à Marie Anne Troullé agée de 59 ans, ménagère demeurant à Doullens présente et consentante au mariage de sa fille, lesquels nous ont requis de procéder à la célébration du mariage projetté entre eux et dont les publications ont été faites en cette commune les dimanche 7 et 14 octobre précédent seoir à l'heure de midi sans qu’il nous ait été signifié aucune opposition audit mariage.
-
-  Faisant droit à leur réquisition, après avoir donné lecture de l'acte de naissance des futurs époux, de l'acte de décés de la mère du future époux de l'acte de décés du père de la future épouse, et du chapitre VI du titre du Code civil Napoléon intitulé **Du Mariage**, nous avons reçu de chaque partie l'une après  l'autre la déclaration qu'elle veluent prendre pour mari et femme. Nous prononçons au nom de la loi que le nommé Pierre Joseph Théophile Ambroise et Aurore Elisabeth Jopéphine Lecointe sont unis par le mariage 
-  
+Faisant droit à leur réquisition, après avoir donné lecture de l'acte de naissance des futurs époux, de l'acte de décés de la mère du future époux de l'acte de décés du père de la future épouse, et du chapitre VI du titre du Code civil Napoléon intitulé **Du Mariage**, nous avons reçu de chaque partie l'une après l'autre la déclaration qu'elle veluent prendre pour mari et femme. Nous prononçons au nom de la loi que le nommé Pierre Joseph Théophile Ambroise et Aurore Elisabeth Jopéphine Lecointe sont unis par le mariage
 
 De tout quoi, nous avons dressé acte en présence de Messieurs
 
-- **Auguste Louis Ambroise**, âgé de **29 ans, tailleur d'habits** demeurant à Doullens, frère de l'époux, premier témoin
-- **François Joseph Napoléon Ambroise**, âgé de 26 ans, aussi **tailleur d'habit** demeurant à Doullens, frère de l'époux, demeurant à Doullens, second témoin.
-- Albert Lecointe, âgé de 30 ans serrurier, demeurant à Doullens, frère de l'épouse, troisième témoin. 
-- Henri Joseph Diland, agé de 33 ans, boulanger demeurant audit Doullens, beau-frère de l'épouse, quatrième témoin
+-   **Auguste Louis Ambroise**, âgé de **29 ans, tailleur d'habits** demeurant à Doullens, frère de l'époux, premier témoin
+-   **François Joseph Napoléon Ambroise**, âgé de 26 ans, aussi **tailleur d'habit** demeurant à Doullens, frère de l'époux, demeurant à Doullens, second témoin.
+-   Albert Lecointe, âgé de 30 ans serrurier, demeurant à Doullens, frère de l'épouse, troisième témoin.
+-   Henri Joseph Diland, agé de 33 ans, boulanger demeurant audit Doullens, beau-frère de l'épouse, quatrième témoin
 
-
-et il  a été donné lecture, aux parties, au père de l'époux, à la mère de l'épouse et aux témoins, qui ont signés avec nous....
-  
+et il a été donné lecture, aux parties, au père de l'époux, à la mère de l'épouse et aux témoins, qui ont signés avec nous....
 
 **Signatures :**
 
@@ -35,8 +39,138 @@ Ambroise — Ambroise — ....
 
 
 
-## Internement de Fernande Marguerie 1921, 1923, 1930
+## Mariage Ambroise Hissette {#mariage-ambroise-hissette}
 
+```{r}
+#| echo: FALSE
+#| fig-align: center
+#| fig-cap: "Acte de mariage Ambroise Hissette de 1889"
+knitr::include_graphics("Images/1889-Ambroise-Hissette-mariage.jpg")
+```
+
+
+L'an 1889, le 9 septembre à 7h du matin. Par devant-nous. Jean-Baptiste, Arnould, maire et officier de l'État de la commune de Jametz, canton et arrondissement de Montmédy (Meuse), ont comparu publiquement dans la maison commune : 1. Alfred AMBROISE, âgés de 28 ans, mécanicien, domicilié à Jametz, né à Paris, 14e arrondissement, le 24 février 1861, fils majeur, naturel et reconnu d'Aline, Joséphine julienne Ambroise, non connue du futur Ce futur nous a déclaré sous serment que le lieu du décès ou du dernier domicile de sa mère lui est inconnu. Cette déclaration nous a été aussi certifié par serment des quatre témoins, si, après dénommé, lesquels nous ont affirmé que, quoi qu'il connaisse, le futur époux, ils ignore le lieu du décès ou du dernier domicile de sa mère. 2. Catherine, Hissette âgé de 29 ans sans profession Celia à jamais né à Hessdorf (Lorraine annexée) le 5 avril 1860, huit, fille majeure de Henry Hissette, âgé de 63 ans, cultivateur et d'Elisabeth Koch, âgé de 61 ans, sans profession, tout deux domiciliés à Jametz, tout deux ici présent et consentant. Les comparants nous ont requis de procéder à la célébration de leur mariage dont les publications ont été faites à Jametz les dimanches 21 et 28 juillet dernier, sans qu'aucune opposition à ce Mariage nous ait été signifiée. Le futur et la future ont produit chacun leur acte de naissance. Ces pièces, dûment légalisées, produisantes pour demeurer annexées au présent acte. Les comparants nous ont en même temps déclaré qu'ils reconnaissent et veulent légitimer  deux enfants du sexe, nés  masculin né d'eux,  le permier le 29 octobre 1885, inscrit sur les registres de la ville du Montmédy, à la même date sous le prénom de Alfred et le deuxième, le 8 décembre 1886, inscrit sous les registres de la même ville à la date, précisée sous le prénom d'Albert...
+
+
+## L'article de l'Est Républicain de 1920 {#1920-article}
+
+
+
+::: {.columns}
+
+::: {.column width="30%"}
+```{r}
+#| echo: FALSE
+#| fig-align: left
+#| fig-cap: "Vente par licitation d'une maison"
+knitr::include_graphics("Images/Article-1920-maison-Ambroise.jpg")
+```
+:::
+
+::: {.column width="70%" style="font-size:smaller;"}
+
+Vente par licitation   d'une maison sise à MONT-SAINT-MARTIN   Canton de Longwy, arrondissement de Briey,  
+département de Meurthe-et-Moselle,  le tout plus amplement désigné ci-après
+ADJUDICATION le samedi 24 janvier 1920, à quatorze heures, à Mont-Saint-Martin,
+chez M. Emile PAROTTE, cafetier au dit lieu.
+
+Le **samedi 24 janvier 1920**, à 14 heures, à Mont-Saint Martin,  une vente par licitation a eu lieu à **Mont-Saint-Martin** (Meurthe-et-Moselle) concernant une maison appartenant à la communauté de biens ayant existé entre **Alfred Ambroise** et **Catherine Hissette**, tous deux décédés.
+
+**Désignation de l'immeuble**
+La maison est située **rue Victor-Hugo à Mont-Saint-Martin**, entre Tronville et Maguin. Elle comprend :
+
+- deux pièces au rez-de-chaussée,  
+- deux pièces à l’étage,  
+- une cave, un grenier,  
+- des écuries,  
+- un jardin derrière et sur le côté.  
+
+Superficie cadastrée : **3 ares 55 centiares 54**, Référence cadastrale : **n° 92**, **Mise à prix : 10 000 francs**
+
+**Héritiers demandeurs**
+
+- **Albert Ambroise**, débardeur, domicilié à Frouard  
+- **Henri Ambroise**, ouvrier d’usine, domicilié à Mont-Saint-Martin  
+- **Léon Ambroise**, dégrossisseur, domicilié à Hayange  cantine St Jacques n°45
+- **Jeanne Ambroise**, célibataire, en service chez M. Grassi aux écluses de Bougival (Seine-et-Oise)  
+Représentés par **Me Castin**, avoué à Briey.
+
+**Parties défenderesses**
+
+- **Alfred Ambroise (père)**, ouvrier d'usine domicilié à Mont Saint Martin, résidant actuellement à Souily 
+- **Alfred Ambroise (fils)**, ouvrier d'usine, demeurant à Mont Saint Martin, aggissant tant en son nom personnel qu'en qualité d'administrateur légal de:
+  - **Jean-Alfred Ambroise**, né le *16 juin 1914*
+  - **André Ambroise**, né le *18 septembre 1915*
+ses deux enfant mineurs domiciliés avec lui, issus de son mariage avec dame Jeanne Bourgaux.
+
+Représentés par **Me Vicq**, avoué à Longwy.
+
+**Jugement et conditions**
+
+Jugement du **6 novembre 1919**, autorisant la vente même en dessous de la mise à prix. Jugement du **30 octobre 1919** : droit aux **indemnités de guerre** transféré à l’adjudicataire avec obligation de remploi. Vente chez **M. Émile Parotte**, cafetier à Mont-Saint-Martin , **Le 24 janvier 1920 à 14 h**,  Cahier des charges déposé chez **Me Person**, notaire à Longwy
+
+:::
+
+:::
+
+
+
+## La fiche militaire d'Arthur Ambroise (1898-1919)
+
+```{r}
+#| echo: FALSE
+#| fig-align: left
+#| fig-cap: "Fiche militaire d'Arthur Ambroise (1898-1919)"
+knitr::include_graphics("Images/Ambroise-Arthur.jpg")
+```
+
+
+
+## La fiche militaire d'Henri Ambroise (1891-)
+
+```{r}
+#| echo: FALSE
+#| fig-align: left
+#| fig-cap: "Fiche militaire d'Henri Ambroise (1891-)"
+knitr::include_graphics("Images/Ambroise-Henri.jpg")
+```
+
+
+
+
+## La fiche militaire de Léon Ambroise (1890-)
+
+```{r}
+#| echo: FALSE
+#| fig-align: left
+#| fig-cap: "Fiche militaire de Léon Ambroise (1890-)"
+knitr::include_graphics("Images/Ambroise-Léon.jpg")
+```
+
+
+## La fiche militaire d'Albert Ambroise (1887-)
+
+```{r}
+#| echo: FALSE
+#| fig-align: left
+#| fig-cap: "Fiche militaire d'Albert Ambroise (1887-)"
+knitr::include_graphics("Images/Ambroise-Albert.jpg")
+```
+
+
+## La fiche militaire d'Alfred Ambroise (1887-)
+
+```{r}
+#| echo: FALSE
+#| fig-align: left
+#| fig-cap: "Fiche militaire d'Alfred Ambroise (1885-)"
+knitr::include_graphics("Images/Ambroise-Alfred.jpg")
+```
+
+
+
+
+## Internement de Fernande Marguerie 1921, 1923, 1930 {#internement-fernande}
 
 ```{r}
 #| echo: FALSE
@@ -44,6 +178,7 @@ Ambroise — Ambroise — ....
 #| fig-cap: "Asile Fain les source 1921"
 knitr::include_graphics("Images/1921-Asile.jpg")
 ```
+
 
 
 ```{r}
@@ -54,7 +189,6 @@ knitr::include_graphics("Images/1923-Asile.jpg")
 ```
 
 
-
 ```{r}
 #| echo: FALSE
 #| fig-align: center
@@ -63,6 +197,128 @@ knitr::include_graphics("Images/1930-Asile-décés.jpg")
 ```
 
 
+
+
+Marguerie Marie Fernande épouse Anchier. Admission non volontaire sur la demande de M. Anchier-François, âgé de 69 ans, employé de commerce, domicilié à Bar-le-Duc, beau-père de la malade. 
+
+
+### Lettre de Charles Anchier pour l'admission
+Je sous-signé Anchier-François Charles, âgé de 69 ans, profession d'employé de commerce demeurant à Bar-le-Duc, Meuse, demande à M. le directeur de l'asile, département d'Aliéné-de-Fains, Meuse, d'admettre dans cet établissement ma belle-fille, Mme Anchier Fernande Marie René, née Marguerie, née à Bar-le-Duc, le 22 décembre 1989, sans profession, demeurant à Bar-le-Duc, canton de Bar-le-Duc, Meuse, pour y faire traiter de l'aliénation mentale dont elle est atteinte, ainsi que le constat, le certificat, délivré par M. le docteur Lorum, demeurant à Bar-le-Duc, rue du Boury, fait et écrit de ma main à Bar-le-Duc, le **26 août 1921**, signé Anchier.
+
+### Lettre du médecin de famille (membre de la famille ?)
+
+Je sous-signé G. Lorum, docteur en médecine à Bar-le-Duc, certifié que Mme Anchier Marguerite Fernande Marie René, demeurant rue d'Oncelier, numéro 19, à Bar-le-Duc, présente, depuis un an, des symptômes de folie mystique, douce et de dépression nerveuse. Elle est, des journées entières, plongée dans des livres religieux, négligeant pour cela les soins du ménage. Les symptômes ont été en s'accentuant, depuis le début, et j'ai dû être appelé près d'elle, hier, de nouveau, aujourd'hui matin, où elle se trouvait en véritable crise de délire mystique, à genoux, sur son lit, levant les yeux au ciel, embrassant le Christ, demandant à un fichtre qui se trouvait là, l'absolution par qu'elle allait mourir, ne me reconnaissant pas, et disant que je venais pour la faire mourir, elle et ses enfants. Il est à craindre que, dans un pareil moment, en même temps de folie douce, Mme Anchier ne se livre à un acte regrettable, suicide, violence sur ses jeunes enfants, etc. En conséquence, je certifie que Mme Anchier est atteinte d'aliénation mentale, qu'elle peut présenter un danger pour la sécurité publique, et doit être placée dans une maison d'aliénés pour être enfermée et soignée. Bar-le-Duc, le 26 août 1921. Signé le docteur G. Lorum. 
+
+
+### Certificat de 24 heures, fin le 27 aout 1921.
+
+Je sous-signé, médecin en chef, directeur, certifie que la nommée Marguerite Marie Fernande Anchier est atteinte d'aliénation mentale, actuellement caractérisée par un état mélancolique, avec anxiété, idée de culpabilité, préoccupation de nature mystique, désespoir, fond notable de névrosisme sonnant, a des actes et a des gestes d'une allure mélodramatique. Cette malade a des angoisses extrêmes concernant le salut de son âme. Elle craint d'être excommuniée. S'avoue coupable de nombreuses fautes, croit qu'elle va bientôt mourir, réclame un prêtre pour se confesser à peu manger. Ses troubles mentaux auraient débuté il y a un an, sous l'influence probable d'une grossesse. Accouchement, il y a une quinzaine de semaines, la malade allaitait encore son enfant, hier avant son maintien en traitement. Signé docteur Maupaté.
+
+### Certificat de quinzaine Fait le 9 septembre 1921 
+
+Je sous-signé, médecin en chef, directeur, certifie que la nommée Marguerite Marie-Fernande Anchier est atteinte de mélancolie, survenue à l'occasion d'une grossesse, il y a un an, avec anxiété, idée de culpabilité, préoccupation mystique, religieuse, fond de nervosisme, donnant à ses gestes et à ses actes une allure mélodramatique, refus d'aliments par intervalles, surdité très prononcée, rendant l'interrogation difficile. Cette malade craint d'être excommuniée, se déclare coupable de nombreuses fautes et réclame un prêtre avant de mourir, se lève de bonne heure pour prier à genoux les bras en croix, déclare qu'elle ne veut pas renier son Dieu, désire souffrir beaucoup pour expier le passé, et par amour pour Dieu. Elle s'alimente mieux depuis quelques jours en même temps que la lactation se supprime, et maintient en traitement, signé Dr Maupaté. 
+
+## 17 octobre 1921
+
+forte, anxieuse, mais un peu moins, cependant, depuis quelques jours, ne peut dire de quoi elle est inquiète. Reprise en main le 22 octobre 1921, lors de la sortie, la malade était légèrement améliorée. Son mari l'a reconduit à l'asile le 23 à 20 heures après sa sortie. Reste anxieuse, gémie, état pénible. **Sortie définitivement le 19 décembre 1921**, reprise par son mari lors de sa sortie, cette malade restant sensiblement dans le même état qu'à son entrée.
+
+
+
+
+### Admission non volontaire en vertu d’une demande de M. Anchier, 37 ans, peintre à Bar-le-Duc, mari de la malade, le 4 décembre 1923
+
+
+Je sous-signé Anchier, René, âgé de 37 ans, profession peintre demeurant à Bar-le-Duc, canton du dit département de la Meuse, demande à M. le directeur de l'asile départemental d'Aliéné de fin Meuse, d'admettre dans cet établissement ma femme, Fernande, Marie-René Marguerite, femme Anchier, née à Bar-le-Duc, le 22 décembre 1889, sans profession, demeurant à Bar-le-Duc, canton du dit Meuse, pour y traiter de l'aliénation mentale dont elle est atteinte, ainsi que le constate, le certificat, de M. le docteur Lorum, demeurant à Bar-le-Duc, fait et écrit de ma main, à Bar-le-Duc, le 4 décembre 1923. 
+
+Signé René Anchier
+
+### Lettre du médecin de famille (membre de la famille ?)
+
+Je sous-signé G. Lorum, docteur en médecine à Bar-le-Duc, certifique madame Anchier Fernande, née à Bar-le-Duc, y demeurant, rue Doncellier, numéro 15, présente des symptômes de délire de la persécution, analogue à ceux qui ont précédé son dernier internement, à l'asile de faim. Les signes d'hallucinations mystiques ont néanmoins disparu. Elle casse, au moment des crises, tout ce qui est à portée de sa main. Elle frappe son mari. Me certifie que madame Anchier est atteinte d'aliénation mentale, qu'elle est un danger pour la sécurité publique et qu'il est nécessaire de la placer dans un asile d'aliénés pour l'y soigner et l'y tenir renfermée. 
+
+Bar-le-Duc, le 4 décembre 1923 SIGNÉ DOCTEUR LORUM 
+
+
+### Certificat de 24 heures Fin le 5 décembre 1923 
+
+Je sous-signé, directeur médecin, certifie que la madame Marguerite Marie-Fernande René Femme-Anchier paraît être atteinte d'aliénation mentale actuellement caractérisée par de l'inquiétude des attitudes mélodramatiques. L'interrogation de cette personne et très difficile en raison d'une surdité très prononcée. Elle a déjà été internée pendant 4 mois en 1921, était sortie de l'asile, reprise par son mari, sans amélioration réelle de l'état mental, et elle reconnait présentement les mêmes préoccupations et avoir frappé hier son mari. Les troubles mentaux actuels semblent liés tout au moins en partie, cette fois encore, à un accouchement récent. 
+
+Maintenir en observation SIGNÉ DOCTEUR MAUPATÉ
+
+
+### Certificat de quinzaine Fin le 18 décembre 1923 
+
+Je soussigné, Directeur médecin certifie que la Mme Marguerite Marie, femme Anchier, est atteinte de psychoses discordantes, démence précoces avec maniérisme et stéréotypie, des attitudes, négativisme et passivité. Elle n'accomplit pas spontanément les actes les plus simples, écrire, manger, etc., mais continue à écrire ou à manger quand on insiste beaucoup. Mutisme, Aspect inquiet, il est difficile de préciser la nature des troubles délirants qu'elle présente en raison de sa surdité très prononcée de son mutisme et de son négativisme. 
+A maintenir Signé Docteur Maupaté 
+
+### 1924
+
+- Janvier: mutisme, aspect inquiet, 
+- février: inactive, attitude catatonique,
+- mars: elle a frappé hier les malades Régène et Canfray, 
+- avril: négativisme, passivité, mai, il faut insister pour la faire manger, 
+- juin : elle a brusquement, sans motif, sauté sur la malade Longuet, l'a fait tomber, lui occasionnant une fracture de cuisse, 
+- juillet: est parfois très agitée, août, reste violente et impulsive à l'occasion, elle se promène dans le couloir ou se cache derrière une porte, 
+- aout: attitude stéréotypée, geste brusque et saccadé, 
+- elle ne s'occupe pas, reste sournoise, 
+
+
+### 1925
+
+-  janvier: aucune amélioration, 
+- février, elle reste en apparence indifférente à tout ce qui l'entoure, 
+- mars: jusqu'à avril, mutisme absolu, 
+- mai: juin, rien de spécial à noter, 
+- juillet, août: attitude catatonique, inaffectivité, mouvement saccadé, 
+- septembre, décembre: elle ne parle pas, s'agenouille parfois paraît effrayée.
+
+### 1926 
+
+- Janvier, est assez souvent violente, ne parle pas, ne s'occupe pas.
+- Février à mars, avril, même réaction discordante.
+- Mai, juin, elle a frappé hier trois autres malades. 
+- Juillet, très gâteuse, mouvement saccadé. 
+- Août, paraît souvent effrayé, gesticule. 
+
+### 1927 
+
+- Janvier, mutisme, ineffectivité, atteinte catatonique. 
+- Février, mars, avril, mai, pas de modification favorable.
+- Juin, juillet, idem, 
+- août, idem. 
+
+### 1928 
+
+- Janvier, même état, 
+- février, idem. 
+- Quatrième trimestre, état démentiel, attitude stéréotypée. 
+
+### 1829 
+
+- Premier trimestre, idem, 
+- deuxième trimestre, grimace, tic, stéréotypée, effrayée.
+- Troisième trimestre, même état, 
+- quatrième trimestre, idem, 
+
+### 1930
+
+ décès, le 6 août 1930.
+
+
+## Ficher militaire de René Anchier {#fiche-militaire-rene-anchier}
+
+```{r}
+#| echo: FALSE
+#| fig-align: left
+#| fig-cap: "Fiche militaire de René Anchier (1885-)"
+knitr::include_graphics("Images/Anchier-René.jpg")
+```
+
+
+
+
+
+
 ## Famille Hissette 2023
 
-La famille Hissette a produit un document de grande qualité  [@hissette2023], où l'on peut retrouver quelques membres de notre arbre (le père de Catherine Hissette). 
+La famille Hissette a produit un document de grande qualité [@hissette2023], où l'on peut retrouver quelques membres de notre arbre (le père de Catherine Hissette).
