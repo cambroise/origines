@@ -1,5 +1,7 @@
 # Introduction {.unnumbered}
 
+## Souvenirs
+
 Au 20, rue du Tribel, dans la maison de mes grands-parents, Marie-Thérèse et Jean Alfred Ambroise — que j’appelais Oma et Opa — il y avait des photos partout. Le long couloir qui menait de la porte d’entrée à la cour intérieure en était peuplé. On en trouvait aussi dans toutes les pièces de la maison. Oma, qui ne jetait rien et adorait raconter, répétait inlassablement les anecdotes liées à chaque image, chaque bibelot. La maison tout entière formait un récit en fragments, suspendu entre mémoire et objets.
 
 Oma parlait souvent de sa famille, mais toujours en se concentrant sur la branche qui la concernait directement : sa grand-mère, et les ancêtres du côté maternel. C’est cette grand-mère qui l’avait élevée, sa mère ayant passé une grande partie de son enfance à l’hôpital psychiatrique. Les anecdotes fusaient, nombreuses, vivantes. Mais lorsque, avec Martine, nous avons voulu en savoir davantage dans les années 2010, il était déjà trop tard. Dans sa vieillesse, Oma Thérèse confondait les dates, mélangeait les souvenirs. Le temps avait commencé à effacer les repères, à brouiller les années.
@@ -15,17 +17,18 @@ Un jour, j’ai voulu comprendre. J’ai commencé à chercher, à fouiller… e
 knitr::include_graphics("Images/arbre-genealogique.jpg")
 ```
 
-
+## Organistation du document
 
 Le patronyme **Ambroise** (Chapitre [`Le patronyme Ambroise`](#patronyme)) trouve ses racines à **Doullens**, dans la Somme, où la lignée remonte au moins à **Georges Ambroise** (1635–1709), maître tailleur (Chapitre [`La famille Ambroise à Doullens dans la Somme (1600-1850)`](#doullens)) . Plusieurs générations plus tard, **Aline Julienne Joséphine Ambroise**, née en 1837, quitte Doullens pour Paris (Chapitre [`Aline Julienne Joséphine Ambroise (1837-1865)`](#ajj)). Elle y mène une vie modeste et donne naissance à sept enfants, dont **Alfred**, né en 1861 dans le 14ᵉ arrondissement.
 
-Alfred migre ensuite en **Meuse**, où il épouse **Catherine Hissette**, une femme d’origine alsacienne (Chapitre [`Alfred Ambroise, Catherine Hissette et leurs enfants`](#ambroise-hissette)). Le couple a au moins cinq fils, et nomme leur premier enfant… Alfred. Ce dernier épouse une femme plus âgée que lui : elle a 37 ans, lui 30. Leur fils **Jean-Alfred Ambroise**, mon grand-père, grandit à **Bar-le-Duc**, où il rencontre **Marie-Thérèse Anchier**, qui tombe enceinte à 17 ans.
+Alfred migre ensuite en **Meuse**, où il épouse **Catherine Hissette**, une femme d’origine alsacienne (Chapitre [`Alfred Ambroise (1861- ), Catherine Hissette (1868- ) et leurs enfants`](#ambroise-hissette)). Le couple a au moins cinq fils, et nomme leur premier enfant… Alfred. Ce dernier épouse une femme plus âgée que lui : elle a 37 ans, lui 30. Leur fils **Jean-Alfred Ambroise**, mon grand-père grandit à Mont-Saint-Martin. Militaire à Bar-le-Duc, il y croise le chemin de Marie-Thérèse Anchier, alors âgée de 17 ans — de leur amour naîtra bientôt un enfant, conçu avant mariage.
 
-Marie-Thérèse a été élevée par sa grand-mère paternelle, sa mère **Fernande Marguerie** ayant été internée dès 1923 (Chapitre [`Fernand Marguerie et René Anchier`](#anchier-marguerie)). La famille **Anchier** est originaire de la Meuse, tandis que la lignée **Marguerie** vient de **Mayence**, sur les bords du Rhin.
+Marie-Thérèse a été élevée par sa grand-mère paternelle 
+(voir Chapitre [`Marie Gillet (1852–1941) et Charles Anchier (1852–1935), et leurs enfants`](#gillet-anchier)), sa mère **Fernande Marguerie** ayant été internée dès 1923 (Chapitre [`René Anchier, Fernande Marguerie (1889-1930)`](#anchier-marguerie)). La famille **Anchier** est originaire de la Meuse, tandis que la lignée **Marguerie** vient de **Mayence**, sur les bords du Rhin.
 
 Jean-Alfred et Marie-Thérèse se marient, divorcent, se remarient, et ont trois fils : **Jean-Claude** (mon père), **René** et **Christian**. Jean-Claude, renouant avec ses origines germaniques, épouse **Maren Schertel**, née à **Kehl**, sur les rives du Rhin. Ils ont un fils unique : **Christophe Ambroise**.
 
 Christophe épouse **Martine Gutmann**, alsacienne, et de leur union naissent trois filles : **Manon**, **Lison** et **Liou**. Manon repart vivre en Allemagne, où elle rencontre **Ingmard Lorenz**, avec qui elle a un fils, **Émile**, né le 12 janvier 2024. Ils vivent aujourd’hui non loin du Rhin.
 
 
-Ce livre suit grossièrement le fil de cette histoire familiale, génération après génération. Chaque chapitre est centré sur une branche, un couple ou un individu, afin donner un point de vue sur cette succession de vies à travers les âges.
+Ce livre suit grossièrement le fil de cette histoire familiale, génération après génération. Chaque chapitre est centré sur une branche, un couple ou un individu, afin donner un point de vue sur cette succession de vies à travers les âges. Des échos et reprises jalonnent ces pages, mais ils offrent au lecteur la liberté de naviguer à sa guise dans l'ouvrage, chaque chapitre formant un ensemble relativement cohérent.

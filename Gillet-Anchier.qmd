@@ -1,0 +1,97 @@
+# Marie Gillet (1852–1941) et Charles Anchier (1852–1935), et leurs enfants {#gillet-anchier}
+
+
+
+```{r}
+#| echo: FALSE
+#| fig-align: center
+#| fig-cap: "Marie Gillet (1852–1941) et Charles Anchier (1852–1935)"
+knitr::include_graphics("Images/anchier-gillet-jeunes.jpg")
+```
+
+
+
+```{mermaid}
+%%| label: fig-arbre-marie
+%%| fig-width: 6
+%%| fig-cap: "Branche familiale de Marie Gillet (1852–1941)"
+graph TD
+  GP1[Louis Eugène Gillet<br>Conducteur des Ponts & Chaussées]
+  GP2[Elisa Herbillon]
+  GM[Marie dite Berthe Gillet<br>1852–1941<br>**Brodeuse imprimeuse**]
+  H[Charles Anchier<br>1852–1935<br>**Comptable**]
+  M1[Mariage 1875 à Bar-le-Duc]
+  C1[Marguerite<br>1877–1908]
+  C2[Fernand<br>1880–]
+  C3[Charles Léon René Anchier<br>1886–1936<br>**Peintre**]
+  C4[Léon<br>1884–1885]
+  C5[Marie-Thérèse<br>1887–1888]
+  C6[Jeanne<br>1890–]
+  C7[Gaston<br>1892–1914]
+  C8[Henri<br>1896–1916]
+
+  GP1 --> GM
+  GP2 --> GM
+  GM --> M1
+  H --> M1
+  M1 --> C1
+  M1 --> C2
+  M1 --> C3
+  M1 --> C4
+  M1 --> C5
+  M1 --> C6
+  M1 --> C7
+  M1 --> C8
+```
+
+
+
+## Marie Gillet, pilier discret de la famille
+
+Née à Bar-le-Duc le 30 mars 1852, **Marie Gillet**, dite Berthe, est la fille d’un conducteur des Ponts et Chaussées et d’une maîtresse de maison. Elle grandit au 40 rue du Tribel entourée de ses frères, élevée dans la rigueur des Dominicaines. À 18 ans, elle est photographiée pour la première fois, mèche sur l’épaule, immortalisée par un photographe admiratif [@manon2003].
+
+Elle épouse en 1875 **Charles Anchier**, jeune comptable originaire de Clermont-en-Argonne, revenu de la guerre franco-prussienne où il s’était engagé volontaire à 18 ans. Le couple s’installe à Bar-le-Duc et aura huit enfants, dont **René**, futur peintre en batiment, et **Henri**, mort à 21 ans au front en 1916.
+
+Marie travaille dès ses 34 ans comme **brodeuse imprimeuse**, traçant à la main des motifs perforés au poinçon, fixés ensuite au bleu d’outre-mer sur les draps des jeunes mariés. Les broderies sont réalisées à Lyon, puis retournées à Marie qui les livre avec facture en main.
+
+Elle mène une vie simple et laborieuse : point de machine à laver, ni de salle de bains — le linge est battu à la main dans la cour, les enfants se lavent au tub, l’eau est tirée du puits. Les toilettes sont au fond du jardin, et l’éclairage au gaz. L’hiver, bouillottes et poêle au charbon tiennent la maisonnée au chaud.
+
+Le jardin de Behonne, à quelques kilomètres de la rue Doncellier, était un refuge familier. La famille s’y rendait souvent le dimanche, profitant du calme et de la nature pour se retrouver.
+
+
+
+
+```{r}
+#| echo: FALSE
+#| fig-align: center
+#| fig-cap: "Le jardin de Behonne"
+knitr::include_graphics("Images/behonne.jpeg")
+```
+
+
+
+Parmi les souvenirs marquants, celui du petit âne César, fidèle compagnon de charrette, reste vif. Un jour, un voisin emprunta l’animal, mais en passant trop près de ruches, César fut piqué à mort par les abeilles. Toute la famille pleura sa disparition, tant il faisait partie du quotidien.
+
+
+A partir de 1923, elle recueille les trois enfants de son fils René, dont la femme  Fernande Marguerie est internée à l'asile de Fains-les-sources. À 70 ans passés, elle reprend son rôle de mère, les élève dans une maison sans confort mais riche de chaleur familiale.
+
+Pendant l’exode de 1940, Marie-Thérèse, son fils et sa grand-mère fuient Bar-le-Duc dans un camion. Arrêtés par des soldats allemands, seuls les militaires sont capturés. Les civils, dont elles font partie, sont miraculeusement relâchés. Une scène brève mais suspendue, entre peur et soulagement.
+
+
+Elle laisse à ses petites-filles Marguerite et **Marie-Thérèse**, qu’elle élève, une mémoire silencieuse et forte, tissée de gestes simples, de deuils contenus et de résilience quotidienne. Le prénom **Marie-Thérèse**, donné à sa petite-fille, résonne comme un écho : c’était aussi celui d’une de ses filles, morte en bas âge en 1890.
+
+
+
+
+## Charles Anchier, comptable engagé volontaire
+
+Né en 1852 à Clermont-en-Argonne, **Charles Anchier** est orphelin très jeune et élevé par ses oncles. En 1870, à 18 ans, il s’engage volontaire dans l’armée lors de la guerre franco-prussienne. Il en revient marqué, mais sans blessure apparente, et décide de devenir comptable à Bar-le-Duc.
+
+Marie-Thérèse Anchier le décrit comme droit, réservé, exigeant mais juste. Il exerce sa profession de comptable avec rigueur dans un bureau de la ville, en haut de la rue de Saint-Mihiel.
+
+Ses journées sont réglées, sa vie austère. Il ne quitte guère son bureau et prend peu de loisirs, sinon les promenades dominicales et la lecture du journal. Son écriture est belle et ordonnée (dixit Marie-Thérèse).
+
+Néanmoins Charles participe aux tâches ménagères : on se souvient de lui, penché sur un tonneau dans la cour, tournant la manivelle pour faire la lessive, geste régulier et modeste, empreint de soin.
+
+Son passé militaire semble lui conférer une autorité silencieuse au sein de la maison. Il assiste, impuissant, aux deuils successifs de ses enfants et petits-enfants. Il meurt en 1935 et repose à Bar-le-Duc, dans le même caveau que Marie. Leur vie commune aura duré soixante ans.
+
